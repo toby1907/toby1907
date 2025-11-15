@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaleye Paul,Tobi</h1>
-<h3 align="center">A passionate Android Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [WhatsappClonei](https://github.com/toby1907/WhatsappClonei)
 
